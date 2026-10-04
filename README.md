@@ -86,3 +86,15 @@ gen_image = model(text_embedding)
 
 ## License
 Open source for academic research and personal development.
+
+---
+
+<div align="center">
+
+<a href="https://github.com/PillowLLM/Pillow_FCTN_0.5B">
+  <img width="100%" src="https://alittlecatgirlpanel.yxp.hk/card?repo=PillowLLM/Pillow_FCTN_0.5B" alt="gh-card · PillowLLM/Pillow_FCTN_0.5B" />
+</a>
+
+<sub>Powered by <a href="https://alittlecatgirlpanel.yxp.hk"><b>gh-card</b></a> · 粉色手写体 README 仓库名片</sub>
+
+</div>
